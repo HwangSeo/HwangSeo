@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm a software engineering student at Korea Aerospace University.
+- Lately, I've been really into Operating Systems, Deep Learning, and Computer Vision -- it's been super fun exploring how things work under the hood. 
+- Sometimes I wonder... can AI solve the Ostritch problem? 🤔 Still curious about that one.
+
