@@ -31,3 +31,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 </p>
+
+### 🙋‍♀️ About Me
+[![Tistory Blog](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)]([https://your-tistory-blog.tistory.com](https://beaf0830.tistory.com/))
