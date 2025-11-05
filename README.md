@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 </p>
 
 ### 🙋‍♀️ About Me
-[![Tistory Blog](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)]([https://your-tistory-blog.tistory.com](https://beaf0830.tistory.com/))
+[![Tistory Blog](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://beaf0830.tistory.com/)
