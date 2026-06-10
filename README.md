@@ -1,36 +1,19 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&text=Hwang%20Seo%20Jin&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
 
-<!--
-**HwangSeo/HwangSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋🏻 황서진
 
-Here are some ideas to get you started:
+- Korea Aerospace Univ | 소프트웨어학부 | 22.03 ~ Current
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏃🏻‍♀️ Experiences
 
-- I'm a software engineering student at Korea Aerospace University.
-- Lately, I've been really into Operating Systems, Deep Learning, and Computer Vision -- it's been super fun exploring how things work under the hood. 
-- Sometimes I wonder... can AI solve the Ostritch problem? 🤔 Still curious about that one.
+- KAU 코알라 알고리즘 학회 | 23.07 ~
+- UMC 5th 안드로이드 수료 | 23.09 ~ 24.02
+- UMC 8th 서버 수료 | 25.03 ~ 25.08
+- AIT Story 풀스택 인턴 | 25.09 ~ 25.12
+- KB 국민은행 IT’s Your Life 7th  | 26.03.04 ~
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
-</p>
+## 👣 Status
 
-### 🙋‍♀️ About Me
-[![Tistory Blog](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://beaf0830.tistory.com/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangSeo&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangSeo&layout=compact&theme=default)
