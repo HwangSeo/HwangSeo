@@ -14,4 +14,4 @@
 
 ## 👣 Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangSeo&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangSeo&show_icons=true&theme=solarized-light)
