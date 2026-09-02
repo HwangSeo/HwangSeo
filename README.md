@@ -14,4 +14,4 @@
 
 ## 👣 Status
 
-[![HwangSeo's GitHub stats](https://github-stats-extended.vercel.app/api?username=HwangSeo&show_icons=true&theme=solarized-light)](https://github.com/stats-organization/github-stats-extended)
+[![HwangSeo's GitHub stats](https://github-stats-extended.vercel.app/api?username=HwangSeo&show_icons=true&theme=solarized-light&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
