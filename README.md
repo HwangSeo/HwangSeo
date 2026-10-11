@@ -1,6 +1,6 @@
 ## 👋🏻 황서진
 
-- Korea Aerospace Univ | 소프트웨어학부 | 22.03 ~ Current
+- Korea Aerospace Univ | 소프트웨어학부 | 22.03 ~ 27.02
 
 ## 🏃🏻‍♀️ Experiences
 
