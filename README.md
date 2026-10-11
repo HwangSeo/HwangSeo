@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&text=Hwang%20Seo%20Jin&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
-
 ## 👋🏻 황서진
 
 - Korea Aerospace Univ | 소프트웨어학부 | 22.03 ~ Current
